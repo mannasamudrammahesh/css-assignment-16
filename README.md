@@ -68,6 +68,7 @@
             box-shadow: 0 2 10px rgba(0, 0, 0, 0.5);
         }
     </style>
+    
 </head>
 <body>
     <div class="container">
